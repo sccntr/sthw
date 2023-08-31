@@ -1,0 +1,9 @@
+.idea/
+audio/
+data/
+*.mp3
+*.zip
+*.bak
+*.png
+*.jpg
+*.wav
