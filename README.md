@@ -11,16 +11,16 @@ Set remote Gitlab / Github repo
 Gitlab
 
 что-то одно из трёх: 
--- не забыть придумать и ввести GIT-PROJECT-TAG (Ctrl-H автозамена в этом тексте)
+-- не забыть придумать и ввести sthw (Ctrl-H автозамена в этом тексте)
 
-git push --set-upstream http://git-lab.socio.loc/zhigmytovcv/GIT-PROJECT-TAG.git master
-git remote add gl http://git-lab.socio.loc/zhigmytovcv/GIT-PROJECT-TAG.git
+git push --set-upstream http://git-lab.socio.loc/zhigmytovcv/sthw.git master
+git remote add gl http://git-lab.socio.loc/zhigmytovcv/sthw.git
 
-git push --set-upstream http://git-lab.socio.loc/epics/GIT-PROJECT-TAG.git master
-git remote add gl http://git-lab.socio.loc/epics/GIT-PROJECT-TAG.git
+git push --set-upstream http://git-lab.socio.loc/epics/sthw.git master
+git remote add gl http://git-lab.socio.loc/epics/sthw.git
 
-git push --set-upstream http://git-lab.socio.loc/features/GIT-PROJECT-TAG.git master
-git remote add gl http://git-lab.socio.loc/features/GIT-PROJECT-TAG.git 
+git push --set-upstream http://git-lab.socio.loc/features/sthw.git master
+git remote add gl http://git-lab.socio.loc/features/sthw.git 
 
 
 
@@ -28,10 +28,10 @@ git remote add gl http://git-lab.socio.loc/features/GIT-PROJECT-TAG.git
 Github 
 
 что-то одно из трёх: 
--- не забыть придумать и ввести GIT-PROJECT-TAG
+-- не забыть придумать и ввести sthw
 
-gh repo create sccntr/GIT-PROJECT-TAG --private
-git remote add gh https://github.com/sccntr/GIT-PROJECT-TAG.git
+gh repo create sccntr/sthw --private
+git remote add gh https://github.com/sccntr/sthw.git
 git push --set-upstream gh master
 
 посмотреть:
